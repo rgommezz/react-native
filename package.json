@@ -1,7 +1,7 @@
 {
   "name": "react-native",
   "version": "0.58.6",
-  "description": "A framework for building native apps using React",
+  "description": "A framework for building native apps using React, TV fork",
   "license": "MIT",
   "repository": {
     "type": "git",
